@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Safari</string>
+    <string name="comment">Comment</string>
+    <string name="description"><u>Description</u></string>
+    <string name="title">Title</string>
+    <string name="price">Price</string>
+    <string name="deal_label_val">How is this deal?</string>
+    <string name="ratings" >Rate</string>
+    <string name="comment_label"><u>Comments</u></string>
+    <string name="post_a_comment_too">Post a comment too</string>
+    <string name="name_a_price">Name a Price</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="entertitle">Enter a title</string>
+    <string name="ksh">Ksh.</string>
+
+    <string name="title_hint">Deal Title</string>
+    <string name="price_hint">Price (numbers only)</string>
+    <string name="description_hint">Description</string>
+    <string name="save_menu">Save</string>
+    <string name="delete_deal">Delete Deal</string>
+    <string name="new_travel_deal">New Travel Deal</string>
+    <string name="logout">Logout</string>
+    <string name="slide_1_title">Book your favourite cruise</string>
+    <string name="slide_1_desc">The easiest way to book travels!</string>
+
+    <string name="slide_2_title">Travel without much hustle</string>
+    <string name="slide_2_desc">Get your tickets ASAP!</string>
+
+    <string name="slide_3_title">Great Discounts</string>
+    <string name="slide_3_desc">Best discounts on every single service we offer!</string>
+
+    <string name="slide_4_title">Move easily</string>
+    <string name="slide_4_desc">Get help when moving</string>
+    <string name="start">GOT IT</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
