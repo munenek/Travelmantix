@@ -1,4 +1,4 @@
-# Andela learning community 4.0 challenge
+0# Andela learning community 4.0 challenge
 My Andela Learning Community 4.0 Android  Assessment Travelmantics Challenge 
 # Prerequisites
 
@@ -21,4 +21,3 @@ The user proceeds to the Login Page, where they need to authenticate by using ei
 <img src="screenshots/apks/Screenshot_2019-08-06-10-38-47.png" width=200 height =300> <img src="screenshots/apks/Screenshot_2019-08-06-10-39-14.png" width=200 height =300> 
 # Creating and viewing deals
 The use can then view travel deals or create a deal if they are an administrator
- <img src="screenshots/apks/Screenshot_Screenshot_2019-08-06-14-03-31.png" width=200 height =300> <img src="screenshots/apks/Screenshot_Screenshot_2019-08-06-14-07-11.png" width=200 height =300> <img src="screenshots/apks/Screenshot_Screenshot_2019-08-06-14-07-17.png" width=200 height =300>
